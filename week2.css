@@ -29,7 +29,7 @@ body{margin:0; font-weight:400; overflow: hidden;}
   background:linear-gradient(to top, rgba(255, 245, 0, 1)10%, rgba(255, 245, 0, 0) 100%); 
  z-index: 20;}
 .text-container { margin-bottom: 150px;
- 
+  font-size: 15px; line-height: 23px;
   word-break:keep-all;
   
  
